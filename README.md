@@ -6,7 +6,7 @@ By default the stats for all countries is displayed but user can search for a si
 
 Stats are provided by COVID-19 data API from multiple sources like like Johns Hopkins CSSE, CDC and WHO: https://rapidapi.com/Gramzivi/api/covid-19-data/details
 
-Working example at: jukkakalenius.fi/corona
+Working example at: https://www.jukkakalenius.fi/corona
 
 <h2>Usage</h2>
 
